@@ -1,0 +1,14 @@
+The input will start with an positive integer, giving the number of instances that follow. For each
+instance, there will be a positive integer, giving the number of elements in the ranking. A sample input
+is the following:
+2
+5
+5 4 3 2 1
+4
+1 5 9 8
+
+The sample input has two instances. The first instance has 5 elements and the second has 4. For each
+instance, your program should output the number of inversions on a separate line. Each output line
+should be terminated by a newline. The correct output to the sample input would be:
+10
+1
